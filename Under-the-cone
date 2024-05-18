@@ -10,7 +10,7 @@
         <link rel="shortcut icon" type="Enter The Password" href="https://icons.veryicon.com/png/o/internet--web/sesame-treasure/login-password-3.png">
     </head>
     <body class="java">
-        <form class="passform" action="https://tahawave.github.io/Encapsulation/Under-the-cone" onsubmit="return passcheck()">
+        <form class="passform" action="https://tahawave.github.io/Encapsulation/djalkjdklajlkjti" onsubmit="return passcheck()">
             <h4 style="color:red;">Enter password number here: <input type="password" required id="13,006,530"></h4>
             <input type="submit">
             <h1> Solve this math problem to enter the correct passcode. Solve z</h1>
