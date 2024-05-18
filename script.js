@@ -5,6 +5,6 @@ alert('Wrong Password, Try Again');
 return false;
 }
 if (document.getElementById('manipulation').value == password) {
-alert('Correct, decapsulation process beginning');
+alert('Correct, But you will need to encapsulate 2 more times to finally encapsulate 532.');
 }
 }
