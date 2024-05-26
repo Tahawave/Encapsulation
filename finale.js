@@ -5,6 +5,6 @@ alert('Wrong Password, Try Again');
 return false;
 }
 if (document.getElementById('Victory is ours').value == password) {
-alert('Correct, Encapsulation complete, great job!');
+alert('Correct, Encapsulation complete');
 }
 }
